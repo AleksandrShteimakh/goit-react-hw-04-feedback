@@ -1,0 +1,21 @@
+.button {
+  font-size: 15px;
+  margin-left: 10px;
+  width: 70px;
+  padding: 8px;
+  font-variant: small-caps;
+  background-color: rgb(0, 106, 255);
+  color: #fff;
+  border: none;
+  border-radius: 10px 0 10px 0;
+  cursor: pointer;
+}
+/* 
+/* .button:hover,
+.button:focus {
+  filter: drop-shadow(0px 5px 8px rgba(255, 162, 0, 0.486));
+}  */
+
+.button:first-child {
+  margin-left: 0px;
+}
